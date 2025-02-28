@@ -11,7 +11,6 @@ BLACK = (0, 0, 0)
 
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Бомбочки")
 
 
 bomb_img = pygame.image.load("bomb.png")
